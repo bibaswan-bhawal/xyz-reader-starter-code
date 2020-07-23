@@ -7,6 +7,13 @@
     <string name="action_settings">Settings</string>
     <string name="action_share">Share</string>
 
+    <string name="shared_element_transition">shared_element_transition</string>
+
     <string name="up">Up</string>
+
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet dictum sit amet justo donec enim diam vulputate ut. Turpis cursus in hac habitasse platea dictumst quisque sagittis purus. Proin nibh nisl condimentum id venenatis a condimentum. Venenatis lectus magna fringilla urna porttitor. Tempor id eu nisl nunc mi ipsum. Dui faucibus in ornare quam viverra. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. In mollis nunc sed id semper. Turpis tincidunt id aliquet risus feugiat in. Neque gravida in fermentum et sollicitudin ac orci phasellus egestas.
+        <br/>
+        Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. Lectus magna fringilla urna porttitor rhoncus dolor purus. Duis at consectetur lorem donec. Egestas maecenas pharetra convallis posuere morbi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames. Mauris rhoncus aenean vel elit. Morbi tristique senectus et netus. Scelerisque varius morbi enim nunc faucibus a pellentesque sit amet. Fusce id velit ut tortor pretium viverra suspendisse potenti nullam. Nulla facilisi etiam dignissim diam quis enim lobortis. Posuere ac ut consequat semper viverra. Nunc vel risus commodo viverra maecenas. Pharetra et ultrices neque ornare aenean. Sodales ut eu sem integer vitae justo eget.</string>
+    <string name="read_more">Read More</string>
 
 </resources>
